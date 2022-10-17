@@ -139,6 +139,7 @@ Here are some of the repositories from the members of this club, You can go thro
 * [Web Location - Harshit Paneri](https://github.com/harshit-paneri/Web-Location)
 * [DSA for everyone - Priyanshu Arora](https://github.com/priyanshuarora595/dsa-for-everyone)
 * [Basic Tip Calculator - Priyanshu Arora](https://github.com/priyanshuarora595/BasicTipCalculator)
+* [Random Quote Generator - Priyanshu Arora](https://github.com/priyanshuarora595/Random-Quote-Generator)
 
 <br>
 
