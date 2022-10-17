@@ -7,8 +7,8 @@
 # Introduction
 <br>
 
-This is an introductory repository for all the beginners and newbies to know about Git and Github
-
+This is an introductory repository for all the beginners and newbies to know about Git and Github.
+The aim of this repo is to make beginners aware about how to use git and github in an easy way.
 <br>
 
 ---
